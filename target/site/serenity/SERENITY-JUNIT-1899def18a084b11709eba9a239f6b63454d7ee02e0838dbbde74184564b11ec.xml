@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Search for available flight" skipped="2" tests="2" time="2.99" timestamp="2018-09-19 07:47:24"><testcase name="Search for flight in ryanair"><skipped/></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Search for available flight" skipped="0" tests="2" time="47.98" timestamp="2018-09-25 03:13:48"><testcase name="Search for flight in ryanair"/></testsuite>

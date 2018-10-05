@@ -3,17 +3,12 @@ package pageObjects;
 import net.serenitybdd.core.pages.WebElementFacade;
 import net.thucydides.core.annotations.DefaultUrl;
 import net.thucydides.core.pages.PageObject;
-import org.jruby.RubyProcess;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.FindBy;
 
-import java.sql.Time;
 import java.util.Calendar;
-import java.util.Date;
-import java.util.Iterator;
 import java.util.concurrent.TimeUnit;
 
-import static java.time.temporal.ChronoUnit.MINUTES;
 import static java.time.temporal.ChronoUnit.SECONDS;
 import static org.openqa.selenium.support.ui.ExpectedConditions.titleContains;
 
@@ -81,12 +76,6 @@ public class RyanairHome extends PageObject {
     }
 
     public void waitLoad() {
-
-//        try {
-//            Thread.sleep(20000);
-//        } catch (InterruptedException e) {
-//            e.printStackTrace();
-//        }
         this.getDriver().manage().timeouts().pageLoadTimeout(15, TimeUnit.SECONDS);
     }
 
@@ -122,8 +111,6 @@ public class RyanairHome extends PageObject {
 
     public RyanairResults submitSearch() {
         submit.click();
-//        Iterator it = iterator();
-//        this.getDriver().manage().timeouts().pageLoadTimeout(5, TimeUnit.SECONDS);
         this.waitFor(titleContains("Ryanair Rooms"));
         for (String it : this.getDriver().getWindowHandles()) {
             this.getDriver().switchTo().window(it);
@@ -131,7 +118,6 @@ public class RyanairHome extends PageObject {
                 break;
             }
         }
-//       this.waitFor(titleContains("Ryanair"));
         return new RyanairResults(this.getDriver());
     }
 

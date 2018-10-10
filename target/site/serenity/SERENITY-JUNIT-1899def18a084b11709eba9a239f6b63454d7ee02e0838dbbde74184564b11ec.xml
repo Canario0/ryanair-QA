@@ -1,18 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="1" name="Search for available flight" skipped="0" tests="2" time="29.55" timestamp="2018-10-03 10:56:30"><testcase name="Search for flight in ryanair"><error message="Expected condition failed: waiting for title to contain &quot;Ryanair Rooms&quot;. Current title: &quot;Ryanair&quot; (tried for 5 second(s) with 50 milliseconds interval)&#10;Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'&#10;System info: host: 'SG-2732', ip: '10.133.133.39', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181'&#10;Driver info: driver.version: unknown&#10;Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'&#10;System info: host: 'SG-2732', ip: '10.133.133.39', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.TimeoutException">Expected condition failed: waiting for title to contain "Ryanair Rooms". Current title: "Ryanair" (tried for 5 second(s) with 50 milliseconds interval)
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'SG-2732', ip: '10.133.133.39', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: driver.version: unknown
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'SG-2732', ip: '10.133.133.39', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: driver.version: unknown</error><system-err>Expected condition failed: waiting for title to contain "Ryanair Rooms". Current title: "Ryanair" (tried for 5 second(s) with 50 milliseconds interval)
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'SG-2732', ip: '10.133.133.39', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: driver.version: unknown
-Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'SG-2732', ip: '10.133.133.39', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_181'
-Driver info: driver.version: unknown&#13;
-pageObjects.RyanairHome.submitSearch(RyanairHome.java:127)&#13;
-steps.serenity.RyanairStepsDefinitions.with_dates(RyanairStepsDefinitions.java:56)&#13;
-steps.StepDefs.withDatesAnd(StepDefs.java:48)&#13;
-✽.with dates: "June 19, 2019" and "0"(src/test/resources/features/bookFlight.feature:9)&#13;
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="2" name="Search for available flight" skipped="0" tests="2" time="5.37" timestamp="2018-10-10 04:33:58"><testcase name="Search for flight in ryanair"><failure message="Unsupported driver for webdriver.driver or webdriver.remote.driver: firefox | chrome. Did you mean firefox?" type="java.lang.AssertionError">Unsupported driver for webdriver.driver or webdriver.remote.driver: firefox | chrome. Did you mean firefox?</failure><system-err>Unsupported driver for webdriver.driver or webdriver.remote.driver: firefox | chrome. Did you mean firefox?&#13;
+steps.serenity.RyanairStepsDefinitions.i_have_enter_to_Ryanair_home_page(RyanairStepsDefinitions.java:23)&#13;
+steps.StepDefs.thatIHaveEnterToRyanairPage(StepDefs.java:19)&#13;
+✽.That I have enter to Ryanair page(src/test/resources/features/bookFlight.feature:6)&#13;
 </system-err></testcase></testsuite>

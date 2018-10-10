@@ -52,8 +52,8 @@
                 ['Passing', 0],
                 ['Pending', 0],
                 ['Ignored', 0],
-                ['Failing', 1],
-                ['Errors',  1],
+                ['Failing', 2],
+                ['Errors',  0],
                 ['Compromised',  0],
                 ['Untested',  0],
             ]
@@ -85,8 +85,8 @@
                 {label: '0 requirements tested successfully'},
                 {label: '0 requirements pending'},
                 {label: '0} requirements skipped'},
-                {label: '1} requirements with failures'},
-                {label: '1} requirements with errors'},
+                {label: '2} requirements with failures'},
+                {label: '0} requirements with errors'},
                 {label: '0} requirements compromised'},
                 {label: '0} requirements untested'},
             ]
@@ -177,7 +177,7 @@
             <a href="#"><i class="fa fa-book"></i> Requirements</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 03-10-2018 10:56</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 10-10-2018 16:33</span>
     <br style="clear:left"/>
 </div>
 
@@ -266,7 +266,7 @@
         </tr>
         <tr>
             <td class="summary-leading-column">Total Duration</td>
-                <td colspan="5">30 seconds</td>
+                <td colspan="5">5 seconds</td>
         </tr>
         </body>
     </table>
@@ -294,27 +294,27 @@
                         </thead>
                         <tbody>
 
-                            <tr class="test-ERROR">
-                                <td><span class="summary-icon"><i class='fa fa-exclamation-triangle error-icon ' title='ERROR'></i></span>
+                            <tr class="test-FAILURE">
+                                <td><span class="summary-icon"><i class='fa fa-times-circle failure-icon ' title='FAILURE'></i></span>
                                     
-                                    <span style="display:none">ERROR</span></td>
-                                <td class="ERROR-text">
+                                    <span style="display:none">FAILURE</span></td>
+                                <td class="FAILURE-text">
                                     <div class="ellipsis">
 
                                         <a href="1899def18a084b11709eba9a239f6b63454d7ee02e0838dbbde74184564b11ec.html" class="ellipsis"
-                                           title="Search for flight in ryanair Timeout exception: Expected condition...">
+                                           title="Search for flight in ryanair Assertion error: Unsupported driver f...">
                                             Search for flight in ryanair&nbsp;(2  examples)
                                                 <span class="related-issue-title"></span>
                                         </a>
                                     </div>
                                 </td>
 
-                                <td class="ERROR-text">20</td>
+                                <td class="FAILURE-text">14</td>
 
 
-                                <td class="ERROR-text" data-sort="2018-10-03 10:56:30">10:56:30</td>
+                                <td class="FAILURE-text" data-sort="2018-10-10 16:33:58">16:33:58</td>
 
-                                <td class="ERROR-text">29.55</td>
+                                <td class="FAILURE-text">5.37</td>
                             </tr>
                         </tbody>
                     </table>

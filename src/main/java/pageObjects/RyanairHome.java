@@ -4,15 +4,18 @@ import net.serenitybdd.core.pages.WebElementFacade;
 import net.thucydides.core.annotations.DefaultUrl;
 import net.thucydides.core.pages.PageObject;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.FindBy;
 
+import java.rmi.Remote;
 import java.util.Calendar;
 import java.util.concurrent.TimeUnit;
 
 import static java.time.temporal.ChronoUnit.SECONDS;
 import static org.openqa.selenium.support.ui.ExpectedConditions.titleContains;
 
-@DefaultUrl("https://www.ryanair.com/gb/en/")
+//@DefaultUrl("https://www.ryanair.com/gb/en/")
+@DefaultUrl("https://www.google.es")
 public class RyanairHome extends PageObject {
 
     @FindBy(xpath = "//div[@data-ref=\"cookies-policy-icon\"]")
@@ -56,7 +59,8 @@ public class RyanairHome extends PageObject {
 
     public RyanairHome(WebDriver driver) {
         super(driver);
-        maximize(driver);
+//        maximize(driver);
+//        openPage();
     }
 
     private void maximize(WebDriver driver) {

@@ -1,0 +1,13 @@
+
+Esquid:S1481")Remove this unused "wait" local variable.(ïà’‰ùÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾ÉÄÊ
+gsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(•ô ùûÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷ñŸ¾úÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+ksquid:UselessImportCheck"BRemove this unused import 'org.openqa.selenium.support.ui.Select'.(´—âÛøÿÿÿÿ
+T
+squid:S106!"9Replace this use of System.out or System.err by a logger.(úûÓÐøÿÿÿÿ
+gsquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(î½Ü‚ÿÿÿÿÿ
+^squid:UselessImportCheck"5Remove this unused import 'java.util.ResourceBundle'.(ýÆ£¯øÿÿÿÿ
+isquid:UselessImportCheck"ERemove this unused import 'org.openqa.selenium.interactions.Actions'.(ÅÑÃ
+Tsquid:S1854"8Remove this useless assignment to local variable "wait".(ïà’‰ùÿÿÿÿ

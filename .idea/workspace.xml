@@ -3,27 +3,41 @@
   <component name="ChangeListManager">
     <list default="true" id="05ed2af6-8bed-486b-a4cc-fa7045d8838d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/RyanairHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/RyanairHome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/RyanairResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/RyanairResults.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/1899def18a084b11709eba9a239f6b63454d7ee02e0838dbbde74184564b11ec.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/1899def18a084b11709eba9a239f6b63454d7ee02e0838dbbde74184564b11ec.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/1899def18a084b11709eba9a239f6b63454d7ee02e0838dbbde74184564b11ec.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/1899def18a084b11709eba9a239f6b63454d7ee02e0838dbbde74184564b11ec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/1899def18a084b11709eba9a239f6b63454d7ee02e0838dbbde74184564b11ec_screenshots.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/31f4d5b963fcc8932aacbc7ad8c1f0f83567917aa48eb756745247c35c86daf7.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/31f4d5b963fcc8932aacbc7ad8c1f0f83567917aa48eb756745247c35c86daf7.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/31f4d5b963fcc8932aacbc7ad8c1f0f83567917aa48eb756745247c35c86daf7.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/31f4d5b963fcc8932aacbc7ad8c1f0f83567917aa48eb756745247c35c86daf7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/42e4d28255dbe24a6e5886d6c62ffa39e9ab9d88c196fe9b7dc625489e357862.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/4d23a46e7e6b4ea3d918996677b9b09377e557dcf84ee5f8053b8d8c9020982e.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5ffdf2ea3f2b4732663ef1a4686fb86f9f07451a7782e25f9cb14a11476a4205.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/5ffdf2ea3f2b4732663ef1a4686fb86f9f07451a7782e25f9cb14a11476a4205.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/6b8bb08c7b8ed625757485a808657327e12cd480ac3b505e861246dc31987177.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/79b14a3a057b5185142e4415e39509cb9be36c3dd3d9a336ee1f41dd5d76acbc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/79b14a3a057b5185142e4415e39509cb9be36c3dd3d9a336ee1f41dd5d76acbc.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/8f5ede9a470450e9a6ab274f37fc2a656d2170c3b2b011f15f9d33178c7720fb.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/8f5ede9a470450e9a6ab274f37fc2a656d2170c3b2b011f15f9d33178c7720fb.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/8f5ede9a470450e9a6ab274f37fc2a656d2170c3b2b011f15f9d33178c7720fb.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/8f5ede9a470450e9a6ab274f37fc2a656d2170c3b2b011f15f9d33178c7720fb.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-1899def18a084b11709eba9a239f6b63454d7ee02e0838dbbde74184564b11ec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-1899def18a084b11709eba9a239f6b63454d7ee02e0838dbbde74184564b11ec.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/ad0a06f187984b724b2e6f01556d2331db136d10070f8751d4280e040ccf6384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b03f8824ff0587fa03b9def1787bb9a653bbcfe0b613ee26c94e5586ad478fdf.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b1567dbef595670b82756b344d9ba6993d93ea588f20ceff489f5df5f5acb7a4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/bf3f1a9b816365c7bdb51c305c62c074939df842f29d954086d0d0bf62a3c350.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/bf3f1a9b816365c7bdb51c305c62c074939df842f29d954086d0d0bf62a3c350.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/c1961814368d06aeacc3ab8481a60baffc95b3cadc9ccd4c5237a260520f056e.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c1961814368d06aeacc3ab8481a60baffc95b3cadc9ccd4c5237a260520f056e.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/c1961814368d06aeacc3ab8481a60baffc95b3cadc9ccd4c5237a260520f056e.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/c1961814368d06aeacc3ab8481a60baffc95b3cadc9ccd4c5237a260520f056e.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/c8a926210aeff57f8aa7ea799262d4b730915a909cd5ecd6a705b1fa13bc7aa8.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/efa777031bd50d479127a8e52290b108905b9b03e3092b335e44a60138328864.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/efa777031bd50d479127a8e52290b108905b9b03e3092b335e44a60138328864.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/efa777031bd50d479127a8e52290b108905b9b03e3092b335e44a60138328864.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/efa777031bd50d479127a8e52290b108905b9b03e3092b335e44a60138328864.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/ffd0e4dcd7a42571151e1355c0b8f2bc5965705019ca40df3ed83a1a91e6d851.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/ffd0e4dcd7a42571151e1355c0b8f2bc5965705019ca40df3ed83a1a91e6d851.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource139324145248459289.html.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/pagesource3898442147949748622.html.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/results.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/summary.txt" afterDir="false" />
     </list>
@@ -45,17 +59,19 @@
     <session id="1270428851">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.29" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -63,17 +79,17 @@
           <entry key="feature" value="6" />
           <entry key="gitignore" value="1" />
           <entry key="gradle" value="4" />
-          <entry key="java" value="50" />
-          <entry key="properties" value="4" />
+          <entry key="java" value="57" />
+          <entry key="properties" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Cucumber" value="6" />
           <entry key="Groovy" value="4" />
-          <entry key="JAVA" value="50" />
+          <entry key="JAVA" value="57" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Properties" value="4" />
+          <entry key="Properties" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -81,8 +97,8 @@
           <entry key="dummy" value="4" />
           <entry key="feature" value="1036" />
           <entry key="gradle" value="13" />
-          <entry key="java" value="7648" />
-          <entry key="properties" value="23" />
+          <entry key="java" value="7750" />
+          <entry key="properties" value="187" />
           <entry key="txt" value="14" />
         </counts>
       </usages-collector>
@@ -90,9 +106,9 @@
         <counts>
           <entry key="Cucumber" value="1036" />
           <entry key="Groovy" value="13" />
-          <entry key="JAVA" value="7648" />
+          <entry key="JAVA" value="7750" />
           <entry key="PLAIN_TEXT" value="18" />
-          <entry key="Properties" value="23" />
+          <entry key="Properties" value="187" />
         </counts>
       </usages-collector>
     </session>
@@ -102,11 +118,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/features/bookFlight.feature">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+            <state relative-caret-position="240">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,21 +133,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/RyanairHome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="100">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding>
-                <element signature="e#2830#2831#0" expanded="true" />
-                <element signature="e#2920#2921#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/serenity.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="160">
+              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -136,8 +154,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/steps/serenity/RyanairStepsDefinitions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="220">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -148,11 +166,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/RyanairResults.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="180">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding>
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#636#637#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -161,9 +178,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/steps/StepDefs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
+            <state relative-caret-position="240">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
+                <element signature="e#1867#1868#0" expanded="true" />
                 <element signature="e#1912#1913#0" expanded="true" />
               </folding>
             </state>
@@ -178,6 +196,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RemoteWebDriver</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -903,17 +926,17 @@
         <option value="$PROJECT_DIR$/src/test/java/TestRunner.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/PageObjects/RyanairHome.java" />
-        <option value="$PROJECT_DIR$/serenity.properties" />
         <option value="$PROJECT_DIR$/src/main/java/Chapucilla.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/StepDefs.java" />
         <option value="$PROJECT_DIR$/src/test/resources/features/bookFlight.feature" />
         <option value="$PROJECT_DIR$/src/test/java/steps/serenity/RyanairStepsDefinitions.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pageObjects/RyanairHome.java" />
         <option value="$PROJECT_DIR$/src/main/java/pageObjects/RyanairResults.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pageObjects/RyanairHome.java" />
+        <option value="$PROJECT_DIR$/serenity.properties" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="-1368" />
     <option name="y" value="-24" />
     <option name="width" value="1366" />
@@ -925,7 +948,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -933,15 +956,87 @@
               <item name="ryanair-QA" type="b2602c69:ProjectViewProjectNode" />
               <item name="ryanair-QA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="ryanair-QA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ryanair-QA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ryanair-QA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ryanair-QA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ryanair-QA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ryanair-QA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ryanair-QA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ryanair-QA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pageObjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ryanair-QA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ryanair-QA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="ryanair-QA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ryanair-QA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ryanair-QA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ryanair-QA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ryanair-QA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ryanair-QA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ryanair-QA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ryanair-QA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ryanair-QA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ryanair-QA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ryanair-QA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ryanair-QA" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="site" type="462c0819:PsiDirectoryNode" />
+              <item name="serenity" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538726412409" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539182302106" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/steps" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -1027,34 +1122,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Run_Test - 2018.09.25 at 13h 39m 38s.xml">
+    <history-entry file="Run_Test - 2018.10.05 at 12h 53m 42s.xml">
       <configuration name="Run Test" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Run_Test - 2018.09.25 at 13h 58m 17s.xml">
+    <history-entry file="Run_Test - 2018.10.05 at 12h 55m 34s.xml">
       <configuration name="Run Test" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Run_Test - 2018.09.25 at 13h 59m 14s.xml">
+    <history-entry file="Run_Test - 2018.10.10 at 16h 16m 06s.xml">
       <configuration name="Run Test" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Run_Test - 2018.09.25 at 15h 02m 26s.xml">
+    <history-entry file="Run_Test - 2018.10.10 at 16h 16m 45s.xml">
       <configuration name="Run Test" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Run_Test - 2018.09.25 at 15h 08m 28s.xml">
+    <history-entry file="Run_Test - 2018.10.10 at 16h 20m 55s.xml">
       <configuration name="Run Test" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Run_Test - 2018.09.25 at 15h 09m 54s.xml">
+    <history-entry file="Run_Test - 2018.10.10 at 16h 27m 54s.xml">
       <configuration name="Run Test" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Run_Test - 2018.09.25 at 15h 11m 12s.xml">
+    <history-entry file="Run_Test - 2018.10.10 at 16h 28m 45s.xml">
       <configuration name="Run Test" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Run_Test - 2018.09.25 at 15h 13m 05s.xml">
+    <history-entry file="Run_Test - 2018.10.10 at 16h 30m 47s.xml">
       <configuration name="Run Test" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Run_Test - 2018.09.25 at 15h 14m 37s.xml">
+    <history-entry file="Run_Test - 2018.10.10 at 16h 33m 37s.xml">
       <configuration name="Run Test" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="Run_Test - 2018.10.03 at 10h 57m 04s.xml">
+    <history-entry file="Run_Test - 2018.10.10 at 16h 34m 04s.xml">
       <configuration name="Run Test" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
@@ -1068,20 +1163,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1920" y="0" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49679488" visible="true" weight="0.1359275" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49679488" visible="true" weight="0.1401919" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5032051" side_tool="true" weight="0.18154311" />
-      <window_info anchor="bottom" id="SonarLint" weight="0.37852496" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32902297" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.595082" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.578373" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.34913793" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1091,6 +1185,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.49836066" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32614943" />
+      <window_info anchor="bottom" id="SonarLint" order="12" weight="0.37852496" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1134,18 +1229,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/steps/serenity/RyanairStepsDefinitions.java</url>
-          <line>46</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -1206,13 +1289,6 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/stepsDefinitions.java" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-        </state>
-      </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-core/1.9.45/d92d63daa34b81f22ef74159cc13a1b478a225fd/serenity-core-1.9.45-sources.jar!/net/thucydides/core/annotations/locators/AbstractSingleItemHandler.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1312,51 +1388,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/serenity.properties">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        <state relative-caret-position="640">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/bookFlight.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.serenity-bdd/serenity-core/1.9.45/d92d63daa34b81f22ef74159cc13a1b478a225fd/serenity-core-1.9.45-sources.jar!/net/serenitybdd/core/pages/PageObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="815" column="16" selection-start-line="815" selection-start-column="16" selection-end-line="815" selection-end-column="16" />
+          <caret line="747" column="22" selection-start-line="747" selection-start-column="22" selection-end-line="747" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Chapucilla.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="160">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steps/StepDefs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
-          <folding>
-            <element signature="e#1912#1913#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steps/serenity/RyanairStepsDefinitions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="240">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1365,30 +1428,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/RyanairHome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="100">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding>
-            <element signature="e#2830#2831#0" expanded="true" />
-            <element signature="e#2920#2921#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/serenity/RyanairStepsDefinitions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pageObjects/RyanairResults.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="180">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
           <folding>
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#636#637#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/bookFlight.feature">
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/StepDefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="55" selection-start-line="13" selection-start-column="55" selection-end-line="13" selection-end-column="55" />
+        <state relative-caret-position="240">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#1867#1868#0" expanded="true" />
+            <element signature="e#1912#1913#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/serenity.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
